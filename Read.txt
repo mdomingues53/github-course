@@ -2,3 +2,5 @@
 
 Este é um arquivo de teste
 
+Analisando o comando diff
+
